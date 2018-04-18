@@ -14,7 +14,7 @@ This travel diary web app will help record your fantastic journeys!
 ## How To Run
 1. Clone repo and cd into it
 1. Install http-server via npm
-1. In Terminal, type ``` hs -c-1 8090```
+1. In Terminal, type ``` hs -c-1 8080```
 1. Navigate to localhost:8080 in your browser
 
 ## Contributors
